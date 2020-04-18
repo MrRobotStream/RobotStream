@@ -1,5 +1,113 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13665.ts   
+
 #EXTINF:-1 tvg-logo="" group-title="",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14167.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14167.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14132.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",AMC HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14158.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",AXN 4K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13667.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13672.ts 
+ 
+#EXTINF:-1 tvg-logo="" group-title="",CANAL SONY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13730.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX UHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13674.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/27255.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",FILM & ARTS OFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14110.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",FOX LIFE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13691.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",FOX PREMIUM 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13692.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",FOX PREMIUM 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13693.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",FOX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13690.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",FX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13696.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13704.ts                                  
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13861.ts       
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13705.ts 
+                          
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY UHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13874.ts                                 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13706.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS E HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13805.ts                                  
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13859.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13707.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS 
+UHD plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13858.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13708.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE UHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14155.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO UHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13699.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13712.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",PRIME BOX BRASIL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13810.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO XTREME HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13713.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13715.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",PARAMOUNT HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13722.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="",PRIME BOX BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13891.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14164.ts 
+ 
+#EXTINF:-1 tvg-logo="" group-title="",SPACE HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13731.ts
+ 
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/13735.ts
+ 
+#EXTINF:-1 tvg-logo="" group-title="",SYFY 
+4Kplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://toptv.ws:25461/live/dtv_220310/zfFeHUYY/14133.ts
 
